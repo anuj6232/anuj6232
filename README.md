@@ -1,3 +1,4 @@
+![logo](https://github.com/anuj6232/anuj6232/blob/main/computer%20(1).png)
 <h1 align="center">Hi 👋, I'm Anuj Dubey</h1>
 <h3 align="center">i'm computer science student</h3>
 <img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
